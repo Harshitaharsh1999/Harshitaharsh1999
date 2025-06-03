@@ -2,7 +2,7 @@
 <h1>Hey there! I'm Harshita Harsh</h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
-Data Scientist.
+
 A passionate **Data Science & Machine Learning Enthusiast** exploring the intersection of technology and analytics. I specialize in **data analysis, visualization, and statistical modeling** to uncover insights that drive decision-making.
 
 ### 🛠 &nbsp;Tech Stack
@@ -13,13 +13,12 @@ A passionate **Data Science & Machine Learning Enthusiast** exploring the inters
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-013243?logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FA0F00?logo=jupyter&logoColor=white)\
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FA0F00?logo=jupyter&logoColor=white)
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)\
-
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)\
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
@@ -42,7 +41,7 @@ A passionate **Data Science & Machine Learning Enthusiast** exploring the inters
 - Exploring creative applications of **FlutterFlow**, integrating ML into hackathon projects.  
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
